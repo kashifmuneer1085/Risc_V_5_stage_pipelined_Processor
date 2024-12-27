@@ -86,10 +86,10 @@ This repository contains the implementation of a RISC-V Single-Cycle Processor w
 
 
 ## Future Work
-    Floating-Point Operations: Expand support for floating-point operations.
-    Hazard Handling and Branch Prediction: Optimize hazard handling and branch prediction logic.
-    Cache Memory: Integrate cache memory to improve performance.
-    RISC-V Extensions: Add support for more RISC-V extensions, such as vector instructions.
+  - Floating-Point Operations: Expand support for floating-point operations.
+  - Hazard Handling and Branch Prediction: Optimize hazard handling and branch prediction logic.
+  - Cache Memory: Integrate cache memory to improve performance.
+  - RISC-V Extensions: Add support for more RISC-V extensions, such as vector instructions.
 
     
 
