@@ -91,6 +91,10 @@ This repository contains the implementation of a RISC-V Single-Cycle Processor w
   - Cache Memory: Integrate cache memory to improve performance.
   - RISC-V Extensions: Add support for more RISC-V extensions, such as vector instructions.
 
+
+## Acknowledgments
+  This project is part of my academic learning as a Computer Engineering student at UET Lahore. It reflects my journey in understanding 
+  RISC-V architecture and building efficient processors.
     
 
 
